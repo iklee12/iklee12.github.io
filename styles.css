@@ -1,0 +1,12 @@
+@charset "utf-8";
+.class {
+}
+.class {
+    color: #000000;
+    font-style: normal;
+    text-align: left;
+    font-size: large;
+    background-color: #F9CD18;
+    -webkit-box-shadow: 0px 0px #EFE5E5;
+    box-shadow: 0px 0px #EFE5E5;
+}
